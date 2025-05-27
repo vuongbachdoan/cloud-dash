@@ -1,6 +1,8 @@
-# Cloud Dash
 
-A Geometry Dash-inspired platformer game built with Pygame featuring neon visuals and dynamic gameplay.
+![Amazon Q Game](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6df8bk9q8g0lv7a8jwe.webp)
+
+# WHAT I BUILD: CLOUD DASH 🎮
+![Cloud Dash](https://github.com/vuongbachdoan/cloud-dash/blob/main/assets/image.png?raw=true)
 
 ## Description
 
@@ -37,7 +39,7 @@ Cloud Dash is a fast-paced side-scrolling platformer where you control a rotatin
 
 3. Run the game:
    ```
-   python cloud_dash.py
+   python geometry_dash.py
    ```
 
 ## Directory Structure
